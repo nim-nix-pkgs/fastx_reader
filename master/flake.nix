@@ -11,7 +11,6 @@
   inputs.src-fastx_reader-master.ref   = "refs/heads/master";
   inputs.src-fastx_reader-master.owner = "ahcm";
   inputs.src-fastx_reader-master.repo  = "fastx_reader";
-  inputs.src-fastx_reader-master.dir   = "";
   inputs.src-fastx_reader-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
