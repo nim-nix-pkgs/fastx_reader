@@ -111,11 +111,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668775811,
-        "narHash": "sha256-CKcXhEaeox8G6vz95E+KMBVmXf2ixieXPlYlapU7X3I=",
+        "lastModified": 1669431089,
+        "narHash": "sha256-hxtpSAxm4nLLBPrHYQ8+sd6vkEbjC+N7WJh8JsjdOcs=",
         "owner": "nim-nix-pkgs",
         "repo": "fastx_reader",
-        "rev": "1333c28011c180f55b0b468c38bc71af47abd798",
+        "rev": "19adb8c5add960340a2ea3eb7b48b25a2d112bfa",
         "type": "github"
       },
       "original": {
